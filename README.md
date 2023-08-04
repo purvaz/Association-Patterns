@@ -72,12 +72,19 @@ The impact of the parameter k: The program took a parameter k as an input, which
 Conclusive remarks and Potential Solution:
 From the wordList, following solution can be proposed.
 ● It seems that cancer is the most indicative of a heriditary nature.
+
 ● There seems to be the maximum correlation between cancer and father, mother and brother. Breast cancer, especially, is related to mother.
+
 ● Hypertension is also correlated with mother and father.
+
 ● Diabeters seems to be more related to mother and grandmother.
+
 ● Heart diseases, coronary heart disease, coronary artery disease seem to be related to father.
+
 ● Alchohol abuse and alchoholism along with mental illnesses seem to be inherited from mother.
+
 ● Mother seems to be the most frequent in all the family members, followed by father, brother and sister .Least common family member seem to be grandmother, son and daughter.
+
 ● This means that most of the diseases seem to be inherited from mother and father.
 
 Pros: There is clear correlation between aforementioned diseases and the family members mentioned.
